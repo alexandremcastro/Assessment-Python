@@ -1,4 +1,4 @@
-# Assessment Lógica de programação com Python
+# [Assessment] Lógica de programação com Python
 
 ### Faça um programa que leia um arquivo texto de contas corrente (contas.txt) de pessoas físicas (PF). As contas devem ser armazenadas em uma lista na memória principal. A conta da PF tem como informações: o número da conta (inteiro maior que zero), nome do correntista (string) e saldo (real).
 
